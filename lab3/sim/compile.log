@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/course-lab_fir/lab-fir/fir/tb/fir_wang.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIR_Logic
+INFO: [VRFC 10-311] analyzing module fir
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/course-lab_fir/lab-fir/fir/rtl/fir_wang.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIR_Logic
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'FIR_Logic' [/home/ubuntu/course-lab_fir/lab-fir/fir/rtl/FIR_Logic.v:3]
+INFO: [VRFC 10-311] analyzing module fir
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'fir' [/home/ubuntu/course-lab_fir/lab-fir/fir/rtl/fir_wang.v:5]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/course-lab_fir/lab-fir/fir/tb/fir_tb_wang.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fir_tb
